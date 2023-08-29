@@ -3,10 +3,10 @@
 
 # Tecnologias
 Backend: Node Express Javascript Cors
+
 Frontend: React Javascript
 
 # Inicializando o backend / frontend
 npm install
+
 npm star
-
-
